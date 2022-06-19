@@ -1,0 +1,33 @@
+{
+  "name": "kamicrypt",
+  "version": "1.0.0",
+  "description": "Small code allowing you to encrypt and decrypt images",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edouard127/kamicrypt.git"
+  },
+  "keywords": [
+    "images",
+    "decrypt",
+    "encrypt",
+    "image",
+    "reducer",
+    "image",
+    "encrypt"
+  ],
+  "author": "Kamigen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edouard127/kamicrypt/issues"
+  },
+  "homepage": "https://github.com/Edouard127/kamicrypt#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "zlib": "^1.0.5"
+  }
+}
